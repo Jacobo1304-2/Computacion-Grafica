@@ -63,6 +63,11 @@ MonoBehaviour:
   description: Template pa VFX
   preview: {fileID: -4639546328536443948}
   dependencies:
+  - dependency: {fileID: 919132149155446097, guid: 6087267eff0210346b0a1991812c6448,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 800ab02c6132c234991d8a703b36ed9c, type: 3}
+    instantiationMode: 0
   - dependency: {fileID: 11400000, guid: 4485d64bad422ee4e909a9fea2da8610, type: 2}
     instantiationMode: 0
   - dependency: {fileID: 2100000, guid: 1938f8c92aebd424892ece8cf79e8701, type: 2}
@@ -71,13 +76,21 @@ MonoBehaviour:
     instantiationMode: 0
   - dependency: {fileID: 2100000, guid: ce0aaa55e1e340342895d12464bafe5e, type: 2}
     instantiationMode: 0
-  - dependency: {fileID: 2800000, guid: 32b23d5d74f3aee4f9364e34e2f59379, type: 3}
-    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 296f064247934c34da66e8c76072b8b9, type: 2}
+    instantiationMode: 0
   - dependency: {fileID: 2100000, guid: 4d73bd3160108bc478e9079619988683, type: 2}
     instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 32b23d5d74f3aee4f9364e34e2f59379, type: 3}
+    instantiationMode: 1
   - dependency: {fileID: 2800000, guid: 69c1512c9d3641e45b647d628f606111, type: 3}
     instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 8592e77149acad44fb81260b456f8e12, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 9fb574bb2692d17479806c9460b1793e, type: 2}
+    instantiationMode: 0
   - dependency: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 3e41fcf43acb6d54eb5298fb31bbc6dd, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 2800000, guid: 573cf9096b65eed4aaad91b284df0529, type: 3}
     instantiationMode: 0
