@@ -176,7 +176,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e823cd5b5d27c0f4b8256e7c12ee3e6d, type: 2}
+  - {fileID: 2100000, guid: 8f54d65abfb6f0e4486dc4ca3511ef8b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -237,14 +237,14 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 198337038}
   serializedVersion: 8
-  lengthInSec: 1.016
+  lengthInSec: 1
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
   emitterVelocityMode: 1
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -312,7 +312,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1.016
+      scalar: 1
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -5051,6 +5051,7 @@ PlayableDirector:
     - 255f4a655f2a70d419bae5e71016a5e8: {fileID: 1947821442}
     - bbb6525409cacc44d88fddc0798d04cc: {fileID: 743758399}
     - ece97e9f879ae424a8ceb212ab3072be: {fileID: 1887728070}
+    - f670d77cd806dc341b4f88bd5a2d9faa: {fileID: 580992336}
     - b0c75f044c9e7e14092d3e46898ce31e: {fileID: 743758399}
 --- !u!4 &447021334
 Transform:
@@ -5076,7 +5077,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 580992340}
-  - component: {fileID: 580992339}
   - component: {fileID: 580992338}
   - component: {fileID: 580992337}
   m_Layer: 0
@@ -5246,7 +5246,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 5
+      scalar: 1
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -9886,33 +9886,6 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
---- !u!1773428102 &580992339
-ParentConstraint:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 580992336}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Weight: 1
-  m_TranslationAtRest: {x: 0, y: 0, z: 0}
-  m_RotationAtRest: {x: 0, y: 0, z: 0}
-  m_TranslationOffsets:
-  - {x: -0.30661553, y: -0.4008705, z: 1.3593009}
-  m_RotationOffsets:
-  - {x: 34.685993, y: -173.59059, z: 34.74742}
-  m_AffectTranslationX: 1
-  m_AffectTranslationY: 1
-  m_AffectTranslationZ: 1
-  m_AffectRotationX: 1
-  m_AffectRotationY: 1
-  m_AffectRotationZ: 1
-  m_Active: 1
-  m_IsLocked: 1
-  m_Sources:
-  - sourceTransform: {fileID: 1464229753}
-    weight: 1
 --- !u!4 &580992340
 Transform:
   m_ObjectHideFlags: 0
@@ -9922,7 +9895,7 @@ Transform:
   m_GameObject: {fileID: 580992336}
   serializedVersion: 2
   m_LocalRotation: {x: -0.23668313, y: -0.916013, z: 0.32213974, w: 0.033575486}
-  m_LocalPosition: {x: 0.7947427, y: 1.0800409, z: 1.3831547}
+  m_LocalPosition: {x: 0.7947427, y: 1.0800409, z: 1.692}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
