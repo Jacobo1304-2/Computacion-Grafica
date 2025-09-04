@@ -1,1 +1,6 @@
 # Computacion-Grafica
+
+### A continuacion el video de los efectos finales.
+https://upbeduco-my.sharepoint.com/:v:/g/personal/jacobo_rodriguez_upb_edu_co/EWCPlThtAihFnHEUNLI-6PIBbT7gmDedEr-m6qs25b_wmQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8t8Ygm
+
+
