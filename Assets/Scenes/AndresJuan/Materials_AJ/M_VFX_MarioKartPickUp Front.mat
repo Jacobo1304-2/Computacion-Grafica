@@ -48,7 +48,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Cull: 2
-    - _FresnelPower: 0.6
+    - _FresnelPower: 0.2
     m_Colors:
     - _RotationAxis: {r: 85, g: 90, b: 0, a: 0}
   m_BuildTextureStacks: []
