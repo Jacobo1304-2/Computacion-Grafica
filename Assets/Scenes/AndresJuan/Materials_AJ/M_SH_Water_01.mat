@@ -47,12 +47,19 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Amplitude: 0.06
+    - _Gravity: 9.81
     - _Normal1Strenght: 0.01
     - _Normal2Strenght: 0.01
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Speed: 1
+    - _Steepness: 0.5
+    - _WaveLength: 2.8
     m_Colors:
     - _DeepColor: {r: 0.2356781, g: 0.25961152, b: 0.2981131, a: 1}
+    - _Direction: {r: 1, g: 1, b: 1, a: 0}
+    - _DirectionVector2: {r: 1, g: 0, b: 0, a: 0}
     - _FomeColor: {r: 0.40200067, g: 0.4071306, b: 0.4943396, a: 1}
     - _IntersectionDensity: {r: 0, g: 0.1, b: 0, a: 0}
     - _Normal1Velocity: {r: 0.1, g: 0.1, b: 0, a: 0}
