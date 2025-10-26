@@ -33,6 +33,14 @@ Material:
         m_Texture: {fileID: 2800000, guid: 8284c6813e3a14c48b644a8628c5fc7f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleCubemap_0b4ae325d2e04150854b10bd768ffbdc_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: a5dbeb829f155954da7a35f99b82e8ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _environmentMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -58,6 +66,7 @@ Material:
     - _WaveLength: 2.8
     m_Colors:
     - _DeepColor: {r: 0.2356781, g: 0.25961152, b: 0.2981131, a: 1}
+    - _DeepColor2: {r: 0.25792098, g: 0.41271186, b: 0.6603774, a: 1}
     - _Direction: {r: 1, g: 1, b: 1, a: 0}
     - _DirectionVector2: {r: 1, g: 0, b: 0, a: 0}
     - _FomeColor: {r: 0.40200067, g: 0.4071306, b: 0.4943396, a: 1}
