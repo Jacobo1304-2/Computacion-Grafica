@@ -37,6 +37,10 @@ Material:
         m_Texture: {fileID: 8900000, guid: a5dbeb829f155954da7a35f99b82e8ca, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _environmentMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -69,7 +73,7 @@ Material:
     - _DeepColor2: {r: 0.25792098, g: 0.41271186, b: 0.6603774, a: 1}
     - _Direction: {r: 1, g: 1, b: 1, a: 0}
     - _DirectionVector2: {r: 1, g: 0, b: 0, a: 0}
-    - _FomeColor: {r: 0.40200067, g: 0.4071306, b: 0.4943396, a: 1}
+    - _FomeColor: {r: 0.72882164, g: 0.7347055, b: 0.86415094, a: 1}
     - _IntersectionDensity: {r: 0, g: 0.1, b: 0, a: 0}
     - _Normal1Velocity: {r: 0.1, g: 0.1, b: 0, a: 0}
     - _Normal2Velocity: {r: -0.1, g: -0.1, b: 0, a: 0}
