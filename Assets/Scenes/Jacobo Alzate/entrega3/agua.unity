@@ -983,6 +983,12 @@ PrefabInstance:
       propertyPath: m_StaticShadowCaster
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3275619962754488053, guid: cde425068aae2c549ba2493e7e119e9e,
+        type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: -876546973899608171, guid: f398c6787f97ed64e9eacbc24d46a577,
+        type: 3}
     - target: {fileID: 3736573322592134261, guid: cde425068aae2c549ba2493e7e119e9e,
         type: 3}
       propertyPath: m_StaticEditorFlags
