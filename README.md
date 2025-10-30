@@ -5,3 +5,7 @@ https://upbeduco-my.sharepoint.com/:v:/g/personal/jacobo_rodriguez_upb_edu_co/EW
 
 Efectos finales trabajo 2:
 https://upbeduco-my.sharepoint.com/:v:/g/personal/jacobo_rodriguez_upb_edu_co/EQkQiB5vY5RAuS5ugD9_diIBKx_L8rVoLYMcmCxr5mwjPg?e=nIdL4L
+
+
+Efectos finales trabajo 3:
+https://upbeduco-my.sharepoint.com/:v:/g/personal/andres_giraldov_upb_edu_co/EQFI-jbkIDJOkkRfsTSstXEBkGsbsdsWjWD4MGSSKaHbMA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ic2aNw
