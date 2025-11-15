@@ -40,7 +40,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: ae953baf6afe6e44ca7354a23c6380bd, type: 3}
+        m_Texture: {fileID: 2800000, guid: c8b492ff9cf52bb4e91147cfe454d707, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TexPrueba:
@@ -48,7 +48,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats: []
-    m_Colors: []
+    m_Floats:
+    - _DissolveAmmount: 7.56
+    - _DissolveSpeed: 13.84
+    - _EdgeWith: 0
+    - _EmissionIntensity: 6.83
+    - _ExternalTime: 0
+    m_Colors:
+    - _EdeColor: {r: 1, g: 0.9483167, b: 0.76037735, a: 0}
+    - _MainColor: {r: 1, g: 0.43890423, b: 0, a: 0}
+    - _PanSpeed: {r: 0, g: 3, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
